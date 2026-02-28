@@ -1,12 +1,21 @@
-  _____          _       _ _           
- |_   _|        | |     | | |          
-   | | _ __  ___| |_ ___| | | ___ _ __ 
-   | || '_ \/ __| __/ _ \ | |/ _ \ '__|
-  _| || | | \__ \ ||  __/ | |  __/ |   
-  \___/_| |_|___/\__\___|_|_|\___|_|
-  
-  Hi there! 👋 I'm Nasim — a passionate Full-Stack Software Engineer
-  crafting seamless digital experiences with elegant code ✨
+<pre>
+```text
+██╗   ██╗ ██████╗ ██╗██████╗ 
+██║   ██║██╔═══██╗██║██╔══██╗
+██║   ██║██║   ██║██║██║  ██║
+╚██╗ ██╔╝██║   ██║██║██║  ██║
+ ╚████╔╝ ╚██████╔╝██║██████╔╝
+  ╚═══╝   ╚═════╝ ╚═╝╚═════╝ 
+
+> system.boot()
+> initializing cosmos.engine
+> status: ONLINE 🌌
+
+> user: nasim
+> role: full-stack engineer
+> mission: crafting seamless digital experiences
+```
+</pre>
 
 [![Website Badge](https://img.shields.io/badge/Portfolio-nasim.dev-blue)](https://www.nasim.dev)  
 [![GitHub followers](https://img.shields.io/github/followers/nasimali?label=Follow&style=social)](https://github.com/nasimali)
