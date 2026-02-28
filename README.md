@@ -8,7 +8,7 @@
 
 > system.boot()
 > initializing cosmos.engine
-> status: ONLINE 🌌
+> status: ONLINE 🟢
 
 > user: nasim
 > role: full-stack engineer
