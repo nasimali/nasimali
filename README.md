@@ -1,5 +1,4 @@
 <pre>
-```text
 ██╗   ██╗ ██████╗ ██╗██████╗ 
 ██║   ██║██╔═══██╗██║██╔══██╗
 ██║   ██║██║   ██║██║██║  ██║
@@ -14,7 +13,6 @@
 > user: nasim
 > role: full-stack engineer
 > mission: crafting seamless digital experiences
-```
 </pre>
 
 [![Website Badge](https://img.shields.io/badge/Portfolio-nasim.dev-blue)](https://www.nasim.dev)  
