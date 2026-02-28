@@ -1,4 +1,3 @@
-<!--
   _____          _       _ _           
  |_   _|        | |     | | |          
    | | _ __  ___| |_ ___| | | ___ _ __ 
@@ -8,24 +7,9 @@
   
   Hi there! 👋 I'm Nasim — a passionate Full-Stack Software Engineer
   crafting seamless digital experiences with elegant code ✨
--->
-
-# Hi, I’m **Nasim Ali** 👋
-
-*I dream to code — and build impact with purpose.*
 
 [![Website Badge](https://img.shields.io/badge/Portfolio-nasim.dev-blue)](https://www.nasim.dev)  
 [![GitHub followers](https://img.shields.io/github/followers/nasimali?label=Follow&style=social)](https://github.com/nasimali)
-
----
-
-## 🔭 About Me
-
-I’m a **Full-Stack Software Engineer** currently based in the **UK 🇬🇧**, building meaningful solutions using modern technology. I thrive in the intersection of **problem solving + intuitive UX**.
-
-- 🌍 Based in **London**  
-- 🚀 Always learning, always improving  
-- 💡 I believe in building software that feels powerful and thoughtful
 
 ---
 
